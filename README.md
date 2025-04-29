@@ -126,9 +126,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📬 Contact
 
-Your Name - [@yourusername](https://twitter.com/yourusername) - email@example.com
+Your Name - [@Marwan1241] - marwanmagdyhawash@gmail.com
 
-Project Link: [https://github.com/yourusername/money-saver](https://github.com/yourusername/money-saver)
+Project Link: [https://github.com/marwan1241/money-saver](https://github.com/marwan1241/money-saver)
 
 ## 🙏 Acknowledgments
 
